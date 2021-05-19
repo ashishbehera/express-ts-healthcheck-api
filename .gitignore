@@ -1,0 +1,17 @@
+# Logs
+logs
+*.log
+
+#node modules
+node_modules
+
+# Others
+lib/
+data/
+
+dist/
+.env
+config/local*
+tmp/
+.eslintcache
+build/
