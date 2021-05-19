@@ -10,8 +10,8 @@ Access to one package manager such as npm
 Start by creating a new directory where you keep your side projects in your local development environment. Inside that directory,
 use npm’s initializer command to create a package.json file:
 
-`mkdir healthcheck-api`
-`cd healthcheck-api/`
+`mkdir express-ts-healthcheck-api`
+`cd express-ts-healthcheck-api/`
 `npm init --yes`
 
 After the initializing step, let us add an express package. From the terminal window, run the command:
